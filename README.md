@@ -4,10 +4,6 @@
 ## Slow or can't detect?
 Whereas typical object detection models run in powerful servers, this one runs on your device. So if your device is slow, it will take time.
 
-## Web Links
-- Github : https://github.com/ShawonAshraf/Webcam-Object-Detection
-- Gitlab : https://gitlab.com/ShawonAshraf/tfjs-object-detection
-
 ## Model in use
 Using [Tiny YOLO](https://pjreddie.com/darknet/yolo/), an ML model that's been converted to work in Tensorflow.js
 
